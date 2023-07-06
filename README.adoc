@@ -1,0 +1,16 @@
+= Ideas
+
+Ideas is a small project for practicing rust and a few crates like tracing, axum, sqlx, etc.
+
+I also want to use ascii doc for documentation, because this should become the standard in our company.
+
+== How to run
+
+=== Server
+
+[source,bash]
+----
+cd server
+
+cargo run --bin server
+----
